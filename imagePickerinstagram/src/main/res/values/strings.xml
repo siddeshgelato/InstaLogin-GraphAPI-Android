@@ -1,11 +1,6 @@
 <resources>
     <string name="app_name">InstaLogin-GraphAPI</string>
 
-
-    <string name="instagram_app_id">441693227395665</string>
-    <string name="instagram_secret">ce08987224bd411cdfb1350e71d91e2e</string>
-    <string name="instagram_redirect_uri">https://www.pickerdemo.com/</string>
-
     <string name="label_connect_to_instagram">Connect to Instagram</string>
     <string name="msg_please_authenticate_instagram">Please authenticate with Instagram to select files</string>
     <string name="instgram_login">Instgram Login</string>
